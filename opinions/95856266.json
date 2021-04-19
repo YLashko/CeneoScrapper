@@ -32,7 +32,7 @@
         "purchased": true,
         "submit_date": "2021-01-20 09:36:27",
         "purchase_date": "2021-01-16 08:32:56",
-        "useful": 4,
+        "useful": 5,
         "useless": 3
     },
     {
@@ -763,6 +763,25 @@
         "useless": 0
     },
     {
+        "opinion_id": "14303860",
+        "author": "e...1",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Działa super",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2021-04-16 11:40:35",
+        "purchase_date": "2021-04-09 12:01:02",
+        "useful": 0,
+        "useless": 0
+    },
+    {
         "opinion_id": "14012757",
         "author": "r...e",
         "recommendation": true,
@@ -988,6 +1007,20 @@
         "useless": 0
     },
     {
+        "opinion_id": "14294044",
+        "author": "Waldemar",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Ok",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2021-04-15 10:06:13",
+        "purchase_date": "2021-04-06 13:55:40",
+        "useful": 0,
+        "useless": 0
+    },
+    {
         "opinion_id": "14218982",
         "author": "o...i",
         "recommendation": true,
@@ -1181,7 +1214,7 @@
         "cons": [],
         "purchased": false,
         "submit_date": "2020-09-05 12:43:01",
-        "purchase_date": null,
+        "purchase_date": "datetime",
         "useful": 20,
         "useless": 4
     },
@@ -1308,7 +1341,7 @@
         ],
         "purchased": false,
         "submit_date": "2020-10-08 13:48:04",
-        "purchase_date": null,
+        "purchase_date": "datetime",
         "useful": 0,
         "useless": 1
     },
@@ -1395,6 +1428,25 @@
         "purchase_date": "2020-11-04 21:56:07",
         "useful": 0,
         "useless": 1
+    },
+    {
+        "opinion_id": "14137459",
+        "author": "m...3",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Jak na razie bez zarzutów",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2021-03-18 09:56:36",
+        "purchase_date": "2021-03-08 17:02:37",
+        "useful": 1,
+        "useless": 0
     },
     {
         "opinion_id": "13185380",
@@ -1513,25 +1565,6 @@
         "purchased": true,
         "submit_date": "2020-12-29 15:21:27",
         "purchase_date": "2020-12-24 08:02:32",
-        "useful": 0,
-        "useless": 0
-    },
-    {
-        "opinion_id": "14137459",
-        "author": "m...3",
-        "recommendation": true,
-        "stars": 5.0,
-        "content": "Jak na razie bez zarzutów",
-        "pros": [
-            "czas pracy na baterii",
-            "funkcjonalność",
-            "łatwość obsługi",
-            "wygląd"
-        ],
-        "cons": [],
-        "purchased": true,
-        "submit_date": "2021-03-18 09:56:36",
-        "purchase_date": "2021-03-08 17:02:37",
         "useful": 0,
         "useless": 0
     },
@@ -1947,7 +1980,7 @@
     {
         "opinion_id": "14018505",
         "author": "b...i",
-        "recommendation": false,
+        "recommendation": null,
         "stars": 0.5,
         "content": "Telefon zepsul na drugi dzien",
         "pros": [

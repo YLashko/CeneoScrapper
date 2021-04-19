@@ -27,6 +27,8 @@
 - dobranie typów danych do wartości zmiennych
 
 ### Etap 2. Ekstrakcja wszystkich opinii  o produkcie z pojedynczej strony
--
+- zapis składowych pojedynczej opinii do słownika
+- zdefiniowanie listy do przechowywania wszystkich opinii 
+- dodanie pętli, która wykonuje operację ekstrakcji dla wszystkich opinii
 ## Etap 3. Ekstrakcja wszystkich opinii  o produkcie z wszystkich stron
 -
