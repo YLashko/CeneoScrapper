@@ -1,6 +1,6 @@
 # CeneoScrapper
 
-## Etap 1
+## Etap 1.
 ### 1. Analiza struktury opinii w serwisie [ceneo.pl](https://www.ceneo.pl)
 
 |Składowa|Selektor CSS|Nazwa zmiennej|Typ danych|
@@ -26,9 +26,13 @@
 - obsługa błędów
 - dobranie typów danych do wartości zmiennych
 
-### Etap 2. Ekstrakcja wszystkich opinii  o produkcie z pojedynczej strony
+## Etap 2. Ekstrakcja wszystkich opinii  o produkcie z pojedynczej strony
 - zapis składowych pojedynczej opinii do słownika
 - zdefiniowanie listy do przechowywania wszystkich opinii 
 - dodanie pętli, która wykonuje operację ekstrakcji dla wszystkich opinii
 ## Etap 3. Ekstrakcja wszystkich opinii  o produkcie z wszystkich stron
--
+- dodanie pętli, która pobiera i analizuje kolejne strony z opiniami o produkcie
+- dodanie możliwośći podania kodu produktu "z klawiatury"
+- dodanie zapisu wszystkich opinii o produkcie do pliku .json
+## Etap 4. Refactoring
+- 

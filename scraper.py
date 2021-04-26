@@ -50,10 +50,6 @@ while current_page:
         opinion_elements['purchased'] = bool(opinion_elements['purchased'])
         opinion_elements['useful'] = int(opinion_elements['useful'])
         opinion_elements['useless'] = int(opinion_elements['useless'])
-
-
-        
-        
         extracted_opinions.append(opinion_elements)
 
     try:
@@ -61,8 +57,6 @@ while current_page:
     except IndexError:
         current_page = None
     print(current_page)
-
-
 
 with open(f'opinions/{product_code}.json', 'w', encoding='UTF-8') as fp:
     json.dump(extracted_opinions, fp, indent=4, ensure_ascii=False)
